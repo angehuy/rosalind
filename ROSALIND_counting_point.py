@@ -1,4 +1,4 @@
-
+# Computes the Hamming Distance between two sequences
 # Assume sequences are of equal lengths
 
 
@@ -16,6 +16,8 @@ def count_mut2(seq1, seq2):
             count += 1
 
 count_mut2("bch", "bcb")
+
+
 
 
 '''
